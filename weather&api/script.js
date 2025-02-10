@@ -1,4 +1,4 @@
-const apiKey = '8c559316c34523d50333c666c31df318'; // Your Weatherstack API key
+const apiKey = ' Your Weatherstack API key'; // Your Weatherstack API key
 const apiUrl = 'http://api.weatherstack.com/current'; // Weatherstack API endpoint
 
 const locationInput = document.getElementById('locationInput');
